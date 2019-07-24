@@ -15,4 +15,4 @@ scenarious:
       url: http://blazedemo.com/reserve.php
       body: 
         fromport: Paris
-        toport: Buenos 
+        toport: Bueno 
